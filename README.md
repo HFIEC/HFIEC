@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Emile!
 
-<!--
-**HFIEC/HFIEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student in **Application & Data Management** based in Belgium.  
+💻 Passionate about technology, automation, and building practical tools.  
+📚 Learning front-end development, scripting, and programming (at school).
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Languages**: HTML5, CSS3, Java, Bash, PowerShell, SQL 
+- 🛠 **Tools**: Visual Studio Code, GitHub, BlueJ, HeidiSQL
+- ⚙️ **Interests**: Web development, scripting, automation, system management
+
+### 📌 School Projects
+
+- 🏞️ Websites with HTML and CSS
+- ⚙️ Bash and PowerShell scripting
+- ☕ Java in BlueJ
+
+### 🔗 Also find me on GitHub
+
+👉 [My main (personal) GitHub profile](https://github.com/cappelleemile)
