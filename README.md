@@ -6,15 +6,15 @@
 
 ### 🔧 Skills & Tools
 
-- 💻 **Languages**: HTML5, CSS3, Java, Bash, PowerShell, SQL 
-- 🛠 **Tools**: Visual Studio Code, GitHub, BlueJ, HeidiSQL
-- ⚙️ **Interests**: Web development, scripting, automation, system management
+- **Languages**: HTML5, CSS3, Java, Bash, PowerShell, SQL 
+- **Tools**: Visual Studio Code, GitHub, BlueJ, HeidiSQL
+- ⚙**Interests**: Web development, scripting, automation, system management
 
 ### 📌 School Projects
 
-- 🏞️ Websites with HTML and CSS
-- ⚙️ Bash and PowerShell scripting
-- ☕ Java in BlueJ
+- Websites with HTML and CSS
+- Bash and PowerShell scripting
+- Java in BlueJ
 
 ### 🔗 Also find me on GitHub
 
