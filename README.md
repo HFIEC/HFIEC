@@ -8,7 +8,7 @@
 
 - **Languages**: HTML5, CSS3, Java, Bash, PowerShell, SQL 
 - **Tools**: Visual Studio Code, GitHub, BlueJ, HeidiSQL
-- ⚙**Interests**: Web development, scripting, automation, system management
+- **Interests**: Web development, scripting, automation, system management
 
 ### 📌 School Projects
 
